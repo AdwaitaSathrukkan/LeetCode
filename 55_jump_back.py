@@ -5,3 +5,4 @@ class Solution:
             if i+nums[i]>=goal:
                 goal=i
         return goal==0
+ 
